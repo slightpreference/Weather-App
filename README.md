@@ -10,3 +10,5 @@ When you execute the code, it fetches your ip address and based on that fetches 
 Now we have searched of another city beijing cn
 
 <img width="525" alt="gui1" src="https://github.com/slightpreference/Weather-App/assets/117043200/91d1ebe7-721a-4fa8-ac2a-65aea216c3e9">
+
+there are some issues with search bar and window refreshing that needs to be addressed yet...
